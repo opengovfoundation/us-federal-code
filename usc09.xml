@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="usctitle.css"?>
+<uscDoc xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.xsd http://www.w3.org/1999/xhtml xhtml-1.0.xsd http://purl.org/dc/elements/1.1/ dc.xsd http://purl.org/dc/terms/ dcterms.xsd" xml:lang="en" identifier="/us/usc/t9" xmlns="http://xml.house.gov/schemas/uslm/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<meta>
+  <dc:title>Title 9</dc:title>
+  <dc:type>USCTitle</dc:type>
+  <docNumber>9</docNumber>
+  <docPublicationName>Online@113-31</docPublicationName>
+  <dc:publisher>OLRC</dc:publisher>
+  <dcterms:created>2013-07-26T05:15:14</dcterms:created>
+  <dc:creator>USCConverter 1.0</dc:creator>
+</meta>
+<main>
+<title id="idd1cf2b40-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9">
+<num value="9">Title 9—</num><heading>ARBITRATION</heading>
+<note topic="enacting"><p>This title was enacted by <ref href="/us/act/1947-07-30/ch392/s1">act July 30, 1947, ch. 392, § 1</ref>, <ref href="/us/stat/61/669">61 Stat. 669</ref></p></note>
+<toc role="threeColumnTOC" id="idd1cf2b41-f639-11e2-8470-abc29ba29c4d">
+<layout>
+<header style="-uslm-lc:I70" role="tocColumnHeader">
+<column class="tocHeaderLeft">Chap.</column>
+<column/>
+<column style="-uslm-lc:I29" class="tocHeaderRight">Sec.</column></header>
+<tocItem>
+<column style="-uslm-lc:I7" class="threeColumnLeft">1.</column><column style="-uslm-lc:I8" class="threeColumnMiddle">General provisions</column><column style="-uslm-lc:I9" class="threeColumnRight">1</column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I7" class="threeColumnLeft">2.</column><column style="-uslm-lc:I8" class="threeColumnMiddle">Convention on the Recognition and Enforcement of Foreign Arbitral Awards</column><column style="-uslm-lc:I9" class="threeColumnRight">201</column></tocItem>
+<tocItem>
+<column style="-uslm-lc:I7" class="threeColumnLeft">3.</column><column style="-uslm-lc:I8" class="threeColumnMiddle">Inter-American Convention on International Commercial Arbitration</column><column style="-uslm-lc:I9" class="threeColumnRight">301</column></tocItem>
+</layout>
+</toc>
+<notes type="uscNote" id="idd1cf2b42-f639-11e2-8470-abc29ba29c4d">
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/369/s2">Pub. L. 101–369, § 2</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/450">104 Stat. 450</ref>, added item for chapter 3.</p>
+<p style="-uslm-lc:I21" class="indent0">1970—<ref href="/us/pl/91/368/s2">Pub. L. 91–368, § 2</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/693">84 Stat. 693</ref>, added analysis of chapters.</p>
+</note>
+<note topic="miscellaneous"><heading>Table</heading><p style="-uslm-lc:I25" class="indent1">Showing where former sections of Title 9 and the laws from which such former sections were derived, have been incorporated in revised Title 9.</p>
+<table width="50%" style="border-collapse:collapse;  border-bottom:1px solid black; -uslm-lc: c3,L2,tp0,xs30,r40,8,tp0,xs30,r40,8; " xmlns="http://www.w3.org/1999/xhtml">
+<colgroup>
+<col style="width:34pt ; max-width:34pt;"/>
+<col style="min-width: 139pt;"/>
+<col style="width:33pt ; max-width:33pt;"/>
+</colgroup>
+<thead>
+<tr class="header" style="font-size:6pt; border-bottom:1px solid black; border-top:1px solid black; -uslm-lc:Ih1;">
+<th style="width:34.0pt ; max-width:34.0pt; text-align:center; vertical-align:middle; border-right:1px solid black;"><p style=" text-align:center;"><i>Title 9 Former Sections</i></p></th><th style="min-width: 139.0pt; text-align:center; vertical-align:middle; border-right:1px solid black; border-left:1px solid black;"><p style=" text-align:center;"><i>Statutes at Large</i></p></th><th style="width:33.0pt ; max-width:33.0pt; text-align:center; vertical-align:middle; border-left:1px solid black;"><p style=" text-align:center;"><i>Title 9 New Sections</i></p></th></tr>
+</thead>
+<tbody style="line-height:7pt; font-size:6pt;">
+<tr style=" border-top:1px solid black; -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>1</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s1">Feb. 12, 1925, ch. 213, § 1</a>, <a href="/us/stat/43/883">43 Stat. 883</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">1</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>2</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s2">Feb. 12, 1925, ch. 213, § 2</a>, <a href="/us/stat/43/883">43 Stat. 883</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">2</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>3</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s3">Feb. 12, 1925, ch. 213, § 3</a>, <a href="/us/stat/43/883">43 Stat. 883</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">3</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>4</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s4">Feb. 12, 1925, ch. 213, § 4</a>, <a href="/us/stat/43/883">43 Stat. 883</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">4</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>5</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s5">Feb. 12, 1925, ch. 213, § 5</a>, <a href="/us/stat/43/884">43 Stat. 884</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">5</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>6</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s6">Feb. 12, 1925, ch. 213, § 6</a>, <a href="/us/stat/43/884">43 Stat. 884</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">6</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>7</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s7">Feb. 12, 1925, ch. 213, § 7</a>, <a href="/us/stat/43/884">43 Stat. 884</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">7</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>8</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s8">Feb. 12, 1925, ch. 213, § 8</a>, <a href="/us/stat/43/884">43 Stat. 884</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">8</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>9</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s9">Feb. 12, 1925, ch. 213, § 9</a>, <a href="/us/stat/43/885">43 Stat. 885</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">9</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>10</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s10">Feb. 12, 1925, ch. 213, § 10</a>, <a href="/us/stat/43/885">43 Stat. 885</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">10</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>11</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s11">Feb. 12, 1925, ch. 213, § 11</a>, <a href="/us/stat/43/885">43 Stat. 885</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">11</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>12</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s12">Feb. 12, 1925, ch. 213, § 12</a>, <a href="/us/stat/43/885">43 Stat. 885</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">12</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>13</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s13">Feb. 12, 1925, ch. 213, § 13</a>, <a href="/us/stat/43/886">43 Stat. 886</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">13</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>14</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s14">Feb. 12, 1925, ch. 213, § 14</a>, <a href="/us/stat/43/886">43 Stat. 886</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">Rep.</p></td></tr>
+<tr style=" -uslm-lc:II01; "><td style=" text-align:left; vertical-align:top; border-right:1px solid black; padding-right:2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span>15</span></p></td><td style=" text-align:left; vertical-align:top; border-right:1px solid black; border-left:1px solid black; padding-right:2pt; padding-left: 2pt;"><p style=" text-align:left; text-indent: -1em; padding-left:1em;" class="leaders"><span><a href="/us/act/1925-02-12/ch213/s15">Feb. 12, 1925, ch. 213, § 15</a>, <a href="/us/stat/43/886">43 Stat. 886</a></span></p></td><td style=" text-align:right; vertical-align:top; border-left:1px solid black; padding-left: 2pt;"><p style=" text-align:right;">14</p></td></tr>
+</tbody>
+</table>
+</note>
+<note topic="codification"><heading>Positive Law; Citation</heading><p>This title has been made positive law by section 1 of <ref href="/us/act/1947-07-30/ch392">act July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/669">61 Stat. 669</ref>, which provided in part that: <quotedContent origin="/us/act/1947-07-30/ch392">“title 9 of the United States Code, entitled ‘Arbitration’, is codified and enacted into positive law and may be cited as ‘9 U.S.C., § —’ ”.</quotedContent>
+</p>
+</note>
+<note topic="repeals"><heading>Repeals</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1947-07-30/ch392/s2">Act July 30, 1947, ch. 392, § 2</ref>, <ref href="/us/stat/61/674">61 Stat. 674</ref>, provided that the sections or parts thereof of the Statutes at Large covering provisions codified in this Act, insofar as such provisions appeared in former title 9 were repealed and provided that any rights or liabilities now existing under such repealed sections or parts thereof shall not be affected by such repeal.</p>
+</note>
+</notes>
+<chapter id="idd1cf5253-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/ch1"><num value="1">CHAPTER 1—</num><heading>GENERAL PROVISIONS</heading>
+<toc role="twoColumnTOC" id="idd1cf5254-f639-11e2-8470-abc29ba29c4d">
+<layout>
+<header style="-uslm-lc:I70" role="tocColumnHeader">
+<column class="tocHeaderLeft">Sec.</column>
+</header>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">1.</column><column style="-uslm-lc:I46" class="twoColumnRight">“Maritime transactions” and “commerce” defined; exceptions to operation of title.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">2.</column><column style="-uslm-lc:I46" class="twoColumnRight">Validity, irrevocability, and enforcement of agreements to arbitrate.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">3.</column><column style="-uslm-lc:I46" class="twoColumnRight">Stay of proceedings where issue therein referable to arbitration.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">4.</column><column style="-uslm-lc:I46" class="twoColumnRight">Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and service thereof; hearing and determination.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">5.</column><column style="-uslm-lc:I46" class="twoColumnRight">Appointment of arbitrators or umpire.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">6.</column><column style="-uslm-lc:I46" class="twoColumnRight">Application heard as motion.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">7.</column><column style="-uslm-lc:I46" class="twoColumnRight">Witnesses before arbitrators; fees; compelling attendance.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">8.</column><column style="-uslm-lc:I46" class="twoColumnRight">Proceedings begun by libel in admiralty and seizure of vessel or property.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">9.</column><column style="-uslm-lc:I46" class="twoColumnRight">Award of arbitrators; confirmation; jurisdiction; procedure.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">10.</column><column style="-uslm-lc:I46" class="twoColumnRight">Same; vacation; grounds; rehearing.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">11.</column><column style="-uslm-lc:I46" class="twoColumnRight">Same; modification or correction; grounds; order.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">12.</column><column style="-uslm-lc:I46" class="twoColumnRight">Notice of motions to vacate or modify; service; stay of proceedings.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">13.</column><column style="-uslm-lc:I46" class="twoColumnRight">Papers filed with order on motions; judgment; docketing; force and effect; enforcement.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">14.</column><column style="-uslm-lc:I46" class="twoColumnRight">Contracts not affected.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">15.</column><column style="-uslm-lc:I46" class="twoColumnRight">Inapplicability of the Act of State doctrine.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">16.</column><column style="-uslm-lc:I46" class="twoColumnRight">Appeals.</column>
+</tocItem>
+</layout>
+</toc>
+<notes type="uscNote" id="idd1cf7965-f639-11e2-8470-abc29ba29c4d">
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/650/s325/a/2">Pub. L. 101–650, title III, § 325(a)(2)</ref>, <date date="1990-12-01">Dec. 1, 1990</date>, <ref href="/us/stat/104/5120">104 Stat. 5120</ref>, added item 15 “Inapplicability of the Act of State doctrine” and redesignated former item 15 “Appeals” as 16.</p>
+<p style="-uslm-lc:I21" class="indent0">1988—<ref href="/us/pl/100/702/s1019/b">Pub. L. 100–702, title X, § 1019(b)</ref>, <date date="1988-11-19">Nov. 19, 1988</date>, <ref href="/us/stat/102/4671">102 Stat. 4671</ref>, added item 15 relating to appeals.</p>
+<p style="-uslm-lc:I21" class="indent0">1970—<ref href="/us/pl/91/368/s3">Pub. L. 91–368, § 3</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/693">84 Stat. 693</ref>, designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.</p>
+</note>
+</notes>
+<section id="idd1cfa076-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s1"><num value="1">§ 1.</num><heading> “Maritime transactions” and “commerce” defined; exceptions to operation of title</heading><content>
+<p style="-uslm-lc:I11" class="indent0">“Maritime transactions”, as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; “commerce”, as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.</p>
+</content><sourceCredit id="idd1cfa077-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/670">61 Stat. 670</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1cfa078-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s1">Act Feb. 12, 1925, ch. 213, § 1</ref>, <ref href="/us/stat/43/883">43 Stat. 883</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1cfa079-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s2"><num value="2">§ 2.</num><heading> Validity, irrevocability, and enforcement of agreements to arbitrate</heading><content>
+<p style="-uslm-lc:I11" class="indent0">A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.</p>
+</content><sourceCredit id="idd1cfc78a-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/670">61 Stat. 670</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1cfc78b-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s2">Act Feb. 12, 1925, ch. 213, § 2</ref>, <ref href="/us/stat/43/883">43 Stat. 883</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1cfc78c-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s3"><num value="3">§ 3.</num><heading> Stay of proceedings where issue therein referable to arbitration</heading><content>
+<p style="-uslm-lc:I11" class="indent0">If any suit or proceeding be brought in any of the courts of the United States upon any issue referable to arbitration under an agreement in writing for such arbitration, the court in which such suit is pending, upon being satisfied that the issue involved in such suit or proceeding is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until such arbitration has been had in accordance with the terms of the agreement, providing the applicant for the stay is not in default in proceeding with such arbitration.</p>
+</content><sourceCredit id="idd1cfc78d-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/670">61 Stat. 670</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1cfc78e-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s3">Act Feb. 12, 1925, ch. 213, § 3</ref>, <ref href="/us/stat/43/883">43 Stat. 883</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1cfc78f-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s4"><num value="4">§ 4.</num><heading> Failure to arbitrate under agreement; petition to United States court having jurisdiction for order to compel arbitration; notice and service thereof; hearing and determination</heading><content>
+<p style="-uslm-lc:I11" class="indent0">A party aggrieved by the alleged failure, neglect, or refusal of another to arbitrate under a written agreement for arbitration may petition any United States district court which, save for such agreement, would have jurisdiction under title 28, in a civil action or in admiralty of the subject matter of a suit arising out of the controversy between the parties, for an order directing that such arbitration proceed in the manner provided for in such agreement. Five days’ notice in writing of such application shall be served upon the party in default. Service thereof shall be made in the manner provided by the Federal Rules of Civil Procedure. The court shall hear the parties, and upon being satisfied that the making of the agreement for arbitration or the failure to comply therewith is not in issue, the court shall make an order directing the parties to proceed to arbitration in accordance with the terms of the agreement. The hearing and proceedings, under such agreement, shall be within the district in which the petition for an order directing such arbitration is filed. If the making of the arbitration agreement or the failure, neglect, or refusal to perform the same be in issue, the court shall proceed summarily to the trial thereof. If no jury trial be demanded by the party alleged to be in default, or if the matter in dispute is within admiralty jurisdiction, the court shall hear and determine such issue. Where such an issue is raised, the party alleged to be in default may, except in cases of admiralty, on or before the return day of the notice of application, demand a jury trial of such issue, and upon such demand the court shall make an order referring the issue or issues to a jury in the manner provided by the Federal Rules of Civil Procedure, or may specially call a jury for that purpose. If the jury find that no agreement in writing for arbitration was made or that there is no default in proceeding thereunder, the proceeding shall be dismissed. If the jury find that an agreement for arbitration was made in writing and that there is a default in proceeding thereunder, the court shall make an order summarily directing the parties to proceed with the arbitration in accordance with the terms thereof.</p>
+</content><sourceCredit id="idd1d015b0-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/671">61 Stat. 671</ref>; <ref href="/us/act/1954-09-03/ch1263/s19">Sept. 3, 1954, ch. 1263, § 19</ref>, <ref href="/us/stat/68/1233">68 Stat. 1233</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d03cc1-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s4">Act Feb. 12, 1925, ch. 213, § 4</ref>, <ref href="/us/stat/43/883">43 Stat. 883</ref>.</p>
+</note>
+<note topic="referencesInText">
+<heading>References in Text</heading><p style="-uslm-lc:I21" class="indent0">Federal Rules of Civil Procedure, referred to in text, are set out in Appendix to Title 28, Judiciary and Judicial Procedure.</p>
+</note>
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">1954—Act <date date="1954-09-03">Sept. 3, 1954</date>, brought section into conformity with present terms and practice.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d03cc2-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s5"><num value="5">§ 5.</num><heading> Appointment of arbitrators or umpire</heading><content>
+<p style="-uslm-lc:I11" class="indent0">If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.</p>
+</content><sourceCredit id="idd1d03cc3-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/671">61 Stat. 671</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d03cc4-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s5">Act Feb. 12, 1925, ch. 213, § 5</ref>, <ref href="/us/stat/43/884">43 Stat. 884</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d063d5-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s6"><num value="6">§ 6.</num><heading> Application heard as motion</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Any application to the court hereunder shall be made and heard in the manner provided by law for the making and hearing of motions, except as otherwise herein expressly provided.</p>
+</content><sourceCredit id="idd1d063d6-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/671">61 Stat. 671</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d063d7-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s6">Act Feb. 12, 1925, ch. 213, § 6</ref>, <ref href="/us/stat/43/884">43 Stat. 884</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d063d8-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s7"><num value="7">§ 7.</num><heading> Witnesses before arbitrators; fees; compelling attendance</heading><content>
+<p style="-uslm-lc:I11" class="indent0">The arbitrators selected either as prescribed in this title or otherwise, or a majority of them, may summon in writing any person to attend before them or any of them as a witness and in a proper case to bring with him or them any book, record, document, or paper which may be deemed material as evidence in the case. The fees for such attendance shall be the same as the fees of witnesses before masters of the United States courts. Said summons shall issue in the name of the arbitrator or arbitrators, or a majority of them, and shall be signed by the arbitrators, or a majority of them, and shall be directed to the said person and shall be served in the same manner as subpoenas to appear and testify before the court; if any person or persons so summoned to testify shall refuse or neglect to obey said summons, upon petition the United States district court for the district in which such arbitrators, or a majority of them, are sitting may compel the attendance of such person or persons before said arbitrator or arbitrators, or punish said person or persons for contempt in the same manner provided by law for securing the attendance of witnesses or their punishment for neglect or refusal to attend in the courts of the United States.</p>
+</content><sourceCredit id="idd1d08ae9-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/672">61 Stat. 672</ref>; <ref href="/us/act/1951-10-31/ch655/s14">Oct. 31, 1951, ch. 655, § 14</ref>, <ref href="/us/stat/65/715">65 Stat. 715</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d08aea-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s7">Act Feb. 12, 1925, ch. 213, § 7</ref>, <ref href="/us/stat/43/884">43 Stat. 884</ref>.</p>
+</note>
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">1951—Act <date date="1951-10-31">Oct. 31, 1951</date>, substituted “United States district court for” for “United States court in and for”, and “by law for” for “on <date date="1925-02-12">February 12, 1925</date>, for”.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d08aeb-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s8"><num value="8">§ 8.</num><heading> Proceedings begun by libel in admiralty and seizure of vessel or property</heading><content>
+<p style="-uslm-lc:I11" class="indent0">If the basis of jurisdiction be a cause of action otherwise justiciable in admiralty, then, notwithstanding anything herein to the contrary, the party claiming to be aggrieved may begin his proceeding hereunder by libel and seizure of the vessel or other property of the other party according to the usual course of admiralty proceedings, and the court shall then have jurisdiction to direct the parties to proceed with the arbitration and shall retain jurisdiction to enter its decree upon the award.</p>
+</content><sourceCredit id="idd1d0b1fc-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/672">61 Stat. 672</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d0b1fd-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s8">Act Feb. 12, 1925, ch. 213, § 8</ref>, 43 Stat 884.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d0b1fe-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s9"><num value="9">§ 9.</num><heading> Award of arbitrators; confirmation; jurisdiction; procedure</heading><content>
+<p style="-uslm-lc:I11" class="indent0">If the parties in their agreement have agreed that a judgment of the court shall be entered upon the award made pursuant to the arbitration, and shall specify the court, then at any time within one year after the award is made any party to the arbitration may apply to the court so specified for an order confirming the award, and thereupon the court must grant such an order unless the award is vacated, modified, or corrected as prescribed in sections 10 and 11 of this title. If no court is specified in the agreement of the parties, then such application may be made to the United States court in and for the district within which such award was made. Notice of the application shall be served upon the adverse party, and thereupon the court shall have jurisdiction of such party as though he had appeared generally in the proceeding. If the adverse party is a resident of the district within which the award was made, such service shall be made upon the adverse party or his attorney as prescribed by law for service of notice of motion in an action in the same court. If the adverse party shall be a nonresident, then the notice of the application shall be served by the marshal of any district within which the adverse party may be found in like manner as other process of the court.</p>
+</content><sourceCredit id="idd1d0d90f-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/672">61 Stat. 672</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d0d910-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s9">Act Feb. 12, 1925, ch. 213, § 9</ref>, <ref href="/us/stat/43/885">43 Stat. 885</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d0d911-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10"><num value="10">§ 10.</num><heading> Same; vacation; grounds; rehearing</heading><subsection class="indent0" id="idd1d0d912-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/a"><num value="a">(a)</num><chapeau> In any of the following cases the United States court in and for the district wherein the award was made may make an order vacating the award upon the application of any party to the arbitration—</chapeau><paragraph class="indent1" id="idd1d0d913-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/a/1"><num value="1">(1)</num><content> where the award was procured by corruption, fraud, or undue means;</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d0d914-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/a/2"><num value="2">(2)</num><content> where there was evident partiality or corruption in the arbitrators, or either of them;</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d0d915-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/a/3"><num value="3">(3)</num><content> where the arbitrators were guilty of misconduct in refusing to postpone the hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent and material to the controversy; or of any other misbehavior by which the rights of any party have been prejudiced; or</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d10026-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/a/4"><num value="4">(4)</num><content> where the arbitrators exceeded their powers, or so imperfectly executed them that a mutual, final, and definite award upon the subject matter submitted was not made.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0" id="idd1d10027-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/b"><num value="b">(b)</num><content> If an award is vacated and the time within which the agreement required the award to be made has not expired, the court may, in its discretion, direct a rehearing by the arbitrators.</content>
+</subsection>
+<subsection class="indent0" id="idd1d10028-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s10/c"><num value="c">(c)</num><content> The United States district court for the district wherein an award was made that was issued pursuant to <ref href="/us/usc/t5/s580">section 580 of title 5</ref> may make an order vacating the award upon the application of a person, other than a party to the arbitration, who is adversely affected or aggrieved by the award, if the use of arbitration or the award is clearly inconsistent with the factors set forth in <ref href="/us/usc/t5/s572">section 572 of title 5</ref>.</content>
+</subsection>
+<sourceCredit id="idd1d10029-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/672">61 Stat. 672</ref>; <ref href="/us/pl/101/552/s5">Pub. L. 101–552, § 5</ref>, <date date="1990-11-15">Nov. 15, 1990</date>, <ref href="/us/stat/104/2745">104 Stat. 2745</ref>; <ref href="/us/pl/102/354/s5/b/4">Pub. L. 102–354, § 5(b)(4)</ref>, <date date="1992-08-26">Aug. 26, 1992</date>, <ref href="/us/stat/106/946">106 Stat. 946</ref>; <ref href="/us/pl/107/169/s1">Pub. L. 107–169, § 1</ref>, <date date="2002-05-07">May 7, 2002</date>, <ref href="/us/stat/116/132">116 Stat. 132</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d1002a-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s10">Act Feb. 12, 1925, ch. 213, § 10</ref>, <ref href="/us/stat/43/885">43 Stat. 885</ref>.</p>
+</note>
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">2002—Subsec. (a)(1) to (4). <ref href="/us/pl/107/169/s1/1">Pub. L. 107–169, § 1(1)</ref>–(3), substituted “where” for “Where” and realigned margins in pars. (1) to (4), and substituted a semicolon for period at end in pars. (1) and (2) and “; or” for the period at end in par. (3).</p>
+<p style="-uslm-lc:I21" class="indent0">Subsec. (a)(5). <ref href="/us/pl/107/169/s1/5">Pub. L. 107–169, § 1(5)</ref>, substituted “If an award” for “Where an award”, inserted a comma after “expired”, and redesignated par. (5) as subsec. (b).</p>
+<p style="-uslm-lc:I21" class="indent0">Subsec. (b). <ref href="/us/pl/107/169/s1/4">Pub. L. 107–169, § 1(4)</ref>, (5), redesignated subsec. (a)(5) as (b). Former subsec. (b) redesignated (c).</p>
+<p style="-uslm-lc:I21" class="indent0">Subsec. (c). <ref href="/us/pl/107/169/s1/4">Pub. L. 107–169, § 1(4)</ref>, redesignated subsec. (b) as (c).</p>
+<p style="-uslm-lc:I21" class="indent0">1992—Subsec. (b). <ref href="/us/pl/102/354">Pub. L. 102–354</ref> substituted “section 580” for “section 590” and “section 572” for “section 582”.</p>
+<p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/552">Pub. L. 101–552</ref> designated existing provisions as subsec. (a), in introductory provisions substituted “In any” for “In either”, redesignated former subsecs. (a) to (e) as pars. (1) to (5), respectively, and added subsec. (b) which read as follows: “The United States district court for the district wherein an award was made that was issued pursuant to <ref href="/us/usc/t5/s580">section 580 of title 5</ref> may make an order vacating the award upon the application of a person, other than a party to the arbitration, who is adversely affected or aggrieved by the award, if the use of arbitration or the award is clearly inconsistent with the factors set forth in <ref href="/us/usc/t5/s572">section 572 of title 5</ref>.”</p>
+</note>
+</notes>
+</section>
+<section id="idd1d14e4b-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s11"><num value="11">§ 11.</num><heading> Same; modification or correction; grounds; order</heading>
+<chapeau style="-uslm-lc:I11" class="blockIndent0">In either of the following cases the United States court in and for the district wherein the award was made may make an order modifying or correcting the award upon the application of any party to the arbitration—</chapeau><subsection class="indent0" id="idd1d14e4c-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s11/a"><num value="a">(a)</num><content> Where there was an evident material miscalculation of figures or an evident material mistake in the description of any person, thing, or property referred to in the award.</content>
+</subsection>
+<subsection class="indent0" id="idd1d14e4d-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s11/b"><num value="b">(b)</num><content> Where the arbitrators have awarded upon a matter not submitted to them, unless it is a matter not affecting the merits of the decision upon the matter submitted.</content>
+</subsection>
+<subsection class="indent0" id="idd1d14e4e-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s11/c"><num value="c">(c)</num><content> Where the award is imperfect in matter of form not affecting the merits of the controversy.<p style="-uslm-lc:I11" class="indent0">The order may modify and correct the award, so as to effect the intent thereof and promote justice between the parties.</p>
+</content>
+</subsection>
+<sourceCredit id="idd1d1755f-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/673">61 Stat. 673</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d17560-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s11">Act Feb. 12, 1925, ch. 213, § 11</ref>, <ref href="/us/stat/43/885">43 Stat. 885</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d17561-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s12"><num value="12">§ 12.</num><heading> Notice of motions to vacate or modify; service; stay of proceedings</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Notice of a motion to vacate, modify, or correct an award must be served upon the adverse party or his attorney within three months after the award is filed or delivered. If the adverse party is a resident of the district within which the award was made, such service shall be made upon the adverse party or his attorney as prescribed by law for service of notice of motion in an action in the same court. If the adverse party shall be a nonresident then the notice of the application shall be served by the marshal of any district within which the adverse party may be found in like manner as other process of the court. For the purposes of the motion any judge who might make an order to stay the proceedings in an action brought in the same court may make an order, to be served with the notice of motion, staying the proceedings of the adverse party to enforce the award.</p>
+</content><sourceCredit id="idd1d17562-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/673">61 Stat. 673</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d17563-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s12">Act Feb. 12, 1925, ch. 213, § 12</ref>, <ref href="/us/stat/43/885">43 Stat. 885</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d17564-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s13"><num value="13">§ 13.</num><heading> Papers filed with order on motions; judgment; docketing; force and effect; enforcement</heading>
+<chapeau style="-uslm-lc:I11" class="blockIndent0">The party moving for an order confirming, modifying, or correcting an award shall, at the time such order is filed with the clerk for the entry of judgment thereon, also file the following papers with the clerk:</chapeau><subsection class="indent0" id="idd1d19c75-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s13/a"><num value="a">(a)</num><content> The agreement; the selection or appointment, if any, of an additional arbitrator or umpire; and each written extension of the time, if any, within which to make the award.</content>
+</subsection>
+<subsection class="indent0" id="idd1d19c76-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s13/b"><num value="b">(b)</num><content> The award.</content>
+</subsection>
+<subsection class="indent0" id="idd1d19c77-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s13/c"><num value="c">(c)</num><content> Each notice, affidavit, or other paper used upon an application to confirm, modify, or correct the award, and a copy of each order of the court upon such an application.<p style="-uslm-lc:I11" class="indent0">The judgment shall be docketed as if it was rendered in an action.</p>
+<p style="-uslm-lc:I11" class="indent0">The judgment so entered shall have the same force and effect, in all respects, as, and be subject to all the provisions of law relating to, a judgment in an action; and it may be enforced as if it had been rendered in an action in the court in which it is entered.</p>
+</content>
+</subsection>
+<sourceCredit id="idd1d19c78-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/673">61 Stat. 673</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d19c79-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s13">Act Feb. 12, 1925, ch. 213, § 13</ref>, <ref href="/us/stat/43/886">43 Stat. 886</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d19c7a-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s14"><num value="14">§ 14.</num><heading> Contracts not affected</heading><content>
+<p style="-uslm-lc:I11" class="indent0">This title shall not apply to contracts made prior to <date date="1926-01-01">January 1, 1926</date>.</p>
+</content><sourceCredit id="idd1d1c38b-f639-11e2-8470-abc29ba29c4d">
+(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/674">61 Stat. 674</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d1c38c-f639-11e2-8470-abc29ba29c4d">
+<note topic="derivation"><heading>Derivation</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s15">Act Feb. 12, 1925, ch. 213, § 15</ref>, <ref href="/us/stat/43/886">43 Stat. 886</ref>.</p>
+</note>
+<note topic="priorProvisions"><heading>Prior Provisions</heading><p style="-uslm-lc:I21" class="indent0"><ref href="/us/act/1925-02-12/ch213/s14">Act Feb. 12, 1925, ch. 213, § 14</ref>, <ref href="/us/stat/43/886">43 Stat. 886</ref>, former provisions of <ref href="/us/usc/t9/s14">section 14 of this title</ref> relating to “short title” is not now covered.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d1c38d-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s15"><num value="15">§ 15.</num><heading> Inapplicability of the Act of State doctrine</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Enforcement of arbitral agreements, confirmation of arbitral awards, and execution upon judgments based on orders confirming such awards shall not be refused on the basis of the Act of State doctrine.</p>
+</content><sourceCredit id="idd1d1c38e-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/100/669/s1">Pub. L. 100–669, § 1</ref>, <date date="1988-11-16">Nov. 16, 1988</date>, <ref href="/us/stat/102/3969">102 Stat. 3969</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d1c38f-f639-11e2-8470-abc29ba29c4d">
+<note topic="codification"><heading>Codification</heading>
+<p style="-uslm-lc:I21" class="indent0">Another <ref href="/us/usc/t9/s15">section 15 of this title</ref> was renumbered <ref href="/us/usc/t9/s16">section 16 of this title</ref>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d1c390-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16"><num value="16">§ 16.</num><heading> Appeals</heading><subsection class="indent0" id="idd1d1c391-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a"><num value="a">(a)</num><chapeau> An appeal may be taken from—</chapeau><paragraph class="indent1" id="idd1d1c392-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/1"><num value="1">(1)</num><chapeau> an order—</chapeau><subparagraph class="indent2" id="idd1d1c393-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/1/A"><num value="A">(A)</num><content> refusing a stay of any action under <ref href="/us/usc/t9/s3">section 3 of this title</ref>,</content>
+</subparagraph>
+<subparagraph class="indent2" id="idd1d1c394-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/1/B"><num value="B">(B)</num><content> denying a petition under <ref href="/us/usc/t9/s4">section 4 of this title</ref> to order arbitration to proceed,</content>
+</subparagraph>
+<subparagraph class="indent2" id="idd1d1eaa5-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/1/C"><num value="C">(C)</num><content> denying an application under <ref href="/us/usc/t9/s206">section 206 of this title</ref> to compel arbitration,</content>
+</subparagraph>
+<subparagraph class="indent2" id="idd1d1eaa6-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/1/D"><num value="D">(D)</num><content> confirming or denying confirmation of an award or partial award, or</content>
+</subparagraph>
+<subparagraph class="indent2" id="idd1d1eaa7-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/1/E"><num value="E">(E)</num><content> modifying, correcting, or vacating an award;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1" id="idd1d1eaa8-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/2"><num value="2">(2)</num><content> an interlocutory order granting, continuing, or modifying an injunction against an arbitration that is subject to this title; or</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d1eaa9-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/a/3"><num value="3">(3)</num><content> a final decision with respect to an arbitration that is subject to this title.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0" id="idd1d1eaaa-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/b"><num value="b">(b)</num><chapeau> Except as otherwise provided in <ref href="/us/usc/t28/s1292/b">section 1292(b) of title 28</ref>, an appeal may not be taken from an interlocutory order—</chapeau><paragraph class="indent1" id="idd1d1eaab-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/b/1"><num value="1">(1)</num><content> granting a stay of any action under <ref href="/us/usc/t9/s3">section 3 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d1eaac-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/b/2"><num value="2">(2)</num><content> directing arbitration to proceed under <ref href="/us/usc/t9/s4">section 4 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d1eaad-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/b/3"><num value="3">(3)</num><content> compelling arbitration under <ref href="/us/usc/t9/s206">section 206 of this title</ref>; or</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d1eaae-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s16/b/4"><num value="4">(4)</num><content> refusing to enjoin an arbitration that is subject to this title.</content>
+</paragraph>
+</subsection>
+<sourceCredit id="idd1d1eaaf-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/100/702/s1019/a">Pub. L. 100–702, title X, § 1019(a)</ref>, <date date="1988-11-19">Nov. 19, 1988</date>, <ref href="/us/stat/102/4670">102 Stat. 4670</ref>, § 15; renumbered § 16, <ref href="/us/pl/101/650/s325/a/1">Pub. L. 101–650, title III, § 325(a)(1)</ref>, <date date="1990-12-01">Dec. 1, 1990</date>, <ref href="/us/stat/104/5120">104 Stat. 5120</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d211c0-f639-11e2-8470-abc29ba29c4d">
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">1990—<ref href="/us/pl/101/650">Pub. L. 101–650</ref> renumbered the second <ref href="/us/usc/t9/s15">section 15 of this title</ref> as this section.</p>
+</note>
+</notes>
+</section>
+</chapter>
+<chapter id="idd1d211c1-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/ch2"><num value="2">CHAPTER 2—</num><heading>CONVENTION ON THE RECOGNITION AND ENFORCEMENT OF FOREIGN ARBITRAL AWARDS</heading>
+<toc role="twoColumnTOC" id="idd1d211c2-f639-11e2-8470-abc29ba29c4d">
+<layout>
+<header style="-uslm-lc:I70" role="tocColumnHeader">
+<column class="tocHeaderLeft">Sec.</column>
+</header>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">201.</column><column style="-uslm-lc:I46" class="twoColumnRight">Enforcement of Convention.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">202.</column><column style="-uslm-lc:I46" class="twoColumnRight">Agreement or award falling under the Convention.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">203.</column><column style="-uslm-lc:I46" class="twoColumnRight">Jurisdiction; amount in controversy.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">204.</column><column style="-uslm-lc:I46" class="twoColumnRight">Venue.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">205.</column><column style="-uslm-lc:I46" class="twoColumnRight">Removal of cases from State courts.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">206.</column><column style="-uslm-lc:I46" class="twoColumnRight">Order to compel arbitration; appointment of arbitrators.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">207.</column><column style="-uslm-lc:I46" class="twoColumnRight">Award of arbitrators; confirmation; jurisdiction; proceeding.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">208.</column><column style="-uslm-lc:I46" class="twoColumnRight">Chapter 1; residual application.</column>
+</tocItem>
+</layout>
+</toc>
+<notes type="uscNote" id="idd1d211c3-f639-11e2-8470-abc29ba29c4d">
+<note topic="amendments"><heading>Amendments</heading><p style="-uslm-lc:I21" class="indent0">1970—<ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/692">84 Stat. 692</ref>, added heading for chapter 2 and analysis of sections for such chapter.</p>
+</note>
+</notes>
+<section id="idd1d211c4-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s201"><num value="201">§ 201.</num><heading> Enforcement of Convention</heading><content>
+<p style="-uslm-lc:I11" class="indent0">The Convention on the Recognition and Enforcement of Foreign Arbitral Awards of <date date="1958-06-10">June 10, 1958</date>, shall be enforced in United States courts in accordance with this chapter.</p>
+</content><sourceCredit id="idd1d211c5-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/692">84 Stat. 692</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d211c6-f639-11e2-8470-abc29ba29c4d">
+<note topic="effectiveDate"><heading>Effective Date</heading><p><ref href="/us/pl/91/368/s4">Pub. L. 91–368, § 4</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/693">84 Stat. 693</ref>, provided that: <quotedContent origin="/us/pl/91/368/s4">“This Act [enacting this chapter] shall be effective upon the entry into force of the Convention on Recognition and Enforcement of Foreign Arbitral Awards with respect to the United States.”</quotedContent>
+ The Convention was entered into force for the United States on <date date="1970-12-29">Dec. 29, 1970</date>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d238d7-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s202"><num value="202">§ 202.</num><heading> Agreement or award falling under the Convention</heading><content>
+<p style="-uslm-lc:I11" class="indent0">An arbitration agreement or arbitral award arising out of a legal relationship, whether contractual or not, which is considered as commercial, including a transaction, contract, or agreement described in <ref href="/us/usc/t9/s2">section 2 of this title</ref>, falls under the Convention. An agreement or award arising out of such a relationship which is entirely between citizens of the United States shall be deemed not to fall under the Convention unless that relationship involves property located abroad, envisages performance or enforcement abroad, or has some other reasonable relation with one or more foreign states. For the purpose of this section a corporation is a citizen of the United States if it is incorporated or has its principal place of business in the United States.</p>
+</content><sourceCredit id="idd1d238d8-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/692">84 Stat. 692</ref>.)</sourceCredit>
+</section>
+<section id="idd1d238d9-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s203"><num value="203">§ 203.</num><heading> Jurisdiction; amount in controversy</heading><content>
+<p style="-uslm-lc:I11" class="indent0">An action or proceeding falling under the Convention shall be deemed to arise under the laws and treaties of the United States. The district courts of the United States (including the courts enumerated in <ref href="/us/usc/t28/s460">section 460 of title 28</ref>) shall have original jurisdiction over such an action or proceeding, regardless of the amount in controversy.</p>
+</content><sourceCredit id="idd1d25fea-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/692">84 Stat. 692</ref>.)</sourceCredit>
+</section>
+<section id="idd1d25feb-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s204"><num value="204">§ 204.</num><heading> Venue</heading><content>
+<p style="-uslm-lc:I11" class="indent0">An action or proceeding over which the district courts have jurisdiction pursuant to <ref href="/us/usc/t9/s203">section 203 of this title</ref> may be brought in any such court in which save for the arbitration agreement an action or proceeding with respect to the controversy between the parties could be brought, or in such court for the district and division which embraces the place designated in the agreement as the place of arbitration if such place is within the United States.</p>
+</content><sourceCredit id="idd1d25fec-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/692">84 Stat. 692</ref>.)</sourceCredit>
+</section>
+<section id="idd1d25fed-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s205"><num value="205">§ 205.</num><heading> Removal of cases from State courts</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Where the subject matter of an action or proceeding pending in a State court relates to an arbitration agreement or award falling under the Convention, the defendant or the defendants may, at any time before the trial thereof, remove such action or proceeding to the district court of the United States for the district and division embracing the place where the action or proceeding is pending. The procedure for removal of causes otherwise provided by law shall apply, except that the ground for removal provided in this section need not appear on the face of the complaint but may be shown in the petition for removal. For the purposes of Chapter 1 of this title any action or proceeding removed under this section shall be deemed to have been brought in the district court to which it is removed.</p>
+</content><sourceCredit id="idd1d286fe-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/692">84 Stat. 692</ref>.)</sourceCredit>
+</section>
+<section id="idd1d286ff-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s206"><num value="206">§ 206.</num><heading> Order to compel arbitration; appointment of arbitrators</heading><content>
+<p style="-uslm-lc:I11" class="indent0">A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. Such court may also appoint arbitrators in accordance with the provisions of the agreement.</p>
+</content><sourceCredit id="idd1d2ae10-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/693">84 Stat. 693</ref>.)</sourceCredit>
+</section>
+<section id="idd1d2ae11-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s207"><num value="207">§ 207.</num><heading> Award of arbitrators; confirmation; jurisdiction; proceeding</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Within three years after an arbitral award falling under the Convention is made, any party to the arbitration may apply to any court having jurisdiction under this chapter for an order confirming the award as against any other party to the arbitration. The court shall confirm the award unless it finds one of the grounds for refusal or deferral of recognition or enforcement of the award specified in the said Convention.</p>
+</content><sourceCredit id="idd1d2ae12-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/693">84 Stat. 693</ref>.)</sourceCredit>
+</section>
+<section id="idd1d2ae13-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s208"><num value="208">§ 208.</num><heading> Chapter 1; residual application</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States.</p>
+</content><sourceCredit id="idd1d2ae14-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/91/368/s1">Pub. L. 91–368, § 1</ref>, <date date="1970-07-31">July 31, 1970</date>, <ref href="/us/stat/84/693">84 Stat. 693</ref>.)</sourceCredit>
+</section>
+</chapter>
+<chapter id="idd1d2ae15-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/ch3"><num value="3">CHAPTER 3—</num><heading>INTER-AMERICAN CONVENTION ON INTERNATIONAL COMMERCIAL ARBITRATION</heading>
+<toc role="twoColumnTOC" id="idd1d2ae16-f639-11e2-8470-abc29ba29c4d">
+<layout>
+<header style="-uslm-lc:I70" role="tocColumnHeader">
+<column class="tocHeaderLeft">Sec.</column>
+</header>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">301.</column><column style="-uslm-lc:I46" class="twoColumnRight">Enforcement of Convention.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">302.</column><column style="-uslm-lc:I46" class="twoColumnRight">Incorporation by reference.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">303.</column><column style="-uslm-lc:I46" class="twoColumnRight">Order to compel arbitration; appointment of arbitrators; locale.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">304.</column><column style="-uslm-lc:I46" class="twoColumnRight">Recognition and enforcement of foreign arbitral decisions and awards; reciprocity.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">305.</column><column style="-uslm-lc:I46" class="twoColumnRight">Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of <date date="1958-06-10">June 10, 1958</date>.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">306.</column><column style="-uslm-lc:I46" class="twoColumnRight">Applicable rules of Inter-American Commercial Arbitration Commission.</column>
+</tocItem>
+<tocItem>
+<column style="-uslm-lc:I20" class="twoColumnLeft">307.</column><column style="-uslm-lc:I46" class="twoColumnRight">Chapter 1; residual application.</column>
+</tocItem>
+</layout>
+</toc>
+<section id="idd1d2d527-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s301"><num value="301">§ 301.</num><heading> Enforcement of Convention</heading><content>
+<p style="-uslm-lc:I11" class="indent0">The Inter-American Convention on International Commercial Arbitration of <date date="1975-01-30">January 30, 1975</date>, shall be enforced in United States courts in accordance with this chapter.</p>
+</content><sourceCredit id="idd1d2d528-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/448">104 Stat. 448</ref>.)</sourceCredit>
+<notes type="uscNote" id="idd1d2d529-f639-11e2-8470-abc29ba29c4d">
+<note topic="effectiveDate"><heading>Effective Date</heading><p><ref href="/us/pl/101/369/s3">Pub. L. 101–369, § 3</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/450">104 Stat. 450</ref>, provided that: <quotedContent origin="/us/pl/101/369/s3">“This Act [enacting this chapter] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of <date date="1975-01-30">January 30, 1975</date>, with respect to the United States.”</quotedContent>
+ The Convention entered into force for the United States on <date date="1990-10-27">Oct. 27, 1990</date>.</p>
+</note>
+</notes>
+</section>
+<section id="idd1d2d52a-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s302"><num value="302">§ 302.</num><heading> Incorporation by reference</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Sections 202, 203, 204, 205, and 207 of this title shall apply to this chapter as if specifically set forth herein, except that for the purposes of this chapter “the Convention” shall mean the Inter-American Convention.</p>
+</content><sourceCredit id="idd1d2fc3b-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/448">104 Stat. 448</ref>.)</sourceCredit>
+</section>
+<section id="idd1d2fc3c-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s303"><num value="303">§ 303.</num><heading> Order to compel arbitration; appointment of arbitrators; locale</heading><subsection class="indent0" id="idd1d2fc3d-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s303/a"><num value="a">(a)</num><content> A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. The court may also appoint arbitrators in accordance with the provisions of the agreement.</content>
+</subsection>
+<subsection class="indent0" id="idd1d2fc3e-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s303/b"><num value="b">(b)</num><content> In the event the agreement does not make provision for the place of arbitration or the appointment of arbitrators, the court shall direct that the arbitration shall be held and the arbitrators be appointed in accordance with Article 3 of the Inter-American Convention.</content>
+</subsection>
+<sourceCredit id="idd1d2fc3f-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/448">104 Stat. 448</ref>.)</sourceCredit>
+</section>
+<section id="idd1d2fc40-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s304"><num value="304">§ 304.</num><heading> Recognition and enforcement of foreign arbitral decisions and awards; reciprocity</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Arbitral decisions or awards made in the territory of a foreign State shall, on the basis of reciprocity, be recognized and enforced under this chapter only if that State has ratified or acceded to the Inter-American Convention.</p>
+</content><sourceCredit id="idd1d32351-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/449">104 Stat. 449</ref>.)</sourceCredit>
+</section>
+<section id="idd1d32352-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s305"><num value="305">§ 305.</num><heading> Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of <date date="1958-06-10">June 10, 1958</date></heading>
+<chapeau style="-uslm-lc:I11" class="blockIndent0">When the requirements for application of both the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of <date date="1958-06-10">June 10, 1958</date>, are met, determination as to which Convention applies shall, unless otherwise expressly agreed, be made as follows:</chapeau><paragraph class="indent1" id="idd1d32353-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s305/1"><num value="1">(1)</num><content> If a majority of the parties to the arbitration agreement are citizens of a State or States that have ratified or acceded to the Inter-American Convention and are member States of the Organization of American States, the Inter-American Convention shall apply.</content>
+</paragraph>
+<paragraph class="indent1" id="idd1d32354-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s305/2"><num value="2">(2)</num><content> In all other cases the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of <date date="1958-06-10">June 10, 1958</date>, shall apply.</content>
+</paragraph>
+<sourceCredit id="idd1d32355-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/449">104 Stat. 449</ref>.)</sourceCredit>
+</section>
+<section id="idd1d32356-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s306"><num value="306">§ 306.</num><heading> Applicable rules of Inter-American Commercial Arbitration Commission</heading><subsection class="indent0" id="idd1d34a67-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s306/a"><num value="a">(a)</num><content> For the purposes of this chapter the rules of procedure of the Inter-American Commercial Arbitration Commission referred to in Article 3 of the Inter-American Convention shall, subject to subsection (b) of this section, be those rules as promulgated by the Commission on <date date="1988-07-01">July 1, 1988</date>.</content>
+</subsection>
+<subsection class="indent0" id="idd1d34a68-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s306/b"><num value="b">(b)</num><content> In the event the rules of procedure of the Inter-American Commercial Arbitration Commission are modified or amended in accordance with the procedures for amendment of the rules of that Commission, the Secretary of State, by regulation in accordance with <ref href="/us/usc/t5/s553">section 553 of title 5</ref>, consistent with the aims and purposes of this Convention, may prescribe that such modifications or amendments shall be effective for purposes of this chapter.</content>
+</subsection>
+<sourceCredit id="idd1d34a69-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/449">104 Stat. 449</ref>.)</sourceCredit>
+</section>
+<section id="idd1d34a6a-f639-11e2-8470-abc29ba29c4d" identifier="/us/usc/t9/s307"><num value="307">§ 307.</num><heading> Chapter 1; residual application</heading><content>
+<p style="-uslm-lc:I11" class="indent0">Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States.</p>
+</content><sourceCredit id="idd1d34a6b-f639-11e2-8470-abc29ba29c4d">
+(Added <ref href="/us/pl/101/369/s1">Pub. L. 101–369, § 1</ref>, <date date="1990-08-15">Aug. 15, 1990</date>, <ref href="/us/stat/104/449">104 Stat. 449</ref>.)</sourceCredit>
+</section>
+</chapter>
+</title>
+</main>
+</uscDoc>
